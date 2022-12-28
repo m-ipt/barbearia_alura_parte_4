@@ -12,3 +12,6 @@ Foi criado a partir do curso [HTML5 e CSS3 parte 1: crie uma página da Web](htt
 
 ## Tecnologias utilizadas neste projeto:<p>
 <img height="20" src="https://img.shields.io/badge/-HTML5-orange"> <img height="20" src="https://img.shields.io/badge/-CSS3-blue">
+
+## Veja o projeto no ar!
+Clique [aqui](https://m-ipt.github.io/barbearia_alura/) para ver o projeto.
