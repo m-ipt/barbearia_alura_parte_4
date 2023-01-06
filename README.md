@@ -18,4 +18,4 @@ Foi criado a partir do curso [HTML5 e CSS3 parte 2: posicionamento, listas e nav
 Basta entrar no site e navegar por ele! :)
 
 ## Veja o projeto no ar!
-Clique [aqui](https://m-ipt.github.io/barbearia_alura/) para ver o projeto.
+Clique [aqui](https://m-ipt.github.io/barbearia_alura_parte_2/) para ver o projeto.
