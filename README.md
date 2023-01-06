@@ -11,7 +11,7 @@ Foi criado a partir do curso [HTML5 e CSS3 parte 2: posicionamento, listas e nav
 - Como inserir uma imagem por URL, links e como deixar os links com cores diferentes
 - Como adicionar um background (uma imagem)
 
-## Tecnologias utilizadas neste projeto:<p>
+## Tecnologias utilizadas neste projeto:
 <img height="20" src="https://img.shields.io/badge/-HTML5-orange"> <img height="20" src="https://img.shields.io/badge/-CSS3-blue">
 
 ## Como utilizar o projeto?
