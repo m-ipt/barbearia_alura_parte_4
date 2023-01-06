@@ -29,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #c78c19;
+    color: darkcyan;
     text-decoration: underline;
 }
 
@@ -49,6 +49,18 @@ nav a:hover {
     box-sizing: border-box;
     border: 2px solid #000000;
     border-radius: 10px;
+}
+
+.produtos li:hover {
+    border-color: darkcyan;
+}
+
+.produtos li:active {
+    border-color: brown;
+}
+
+.produtos li:hover h2 {
+    font-size: 35px;
 }
 
 .produtos h2 {
