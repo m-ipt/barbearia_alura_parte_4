@@ -53,14 +53,20 @@ nav a:hover {
 
 .produtos li:hover {
     border-color: darkcyan;
+    color: darkcyan;
 }
 
 .produtos li:active {
     border-color: brown;
+    color: brown;
 }
 
 .produtos li:hover h2 {
-    font-size: 35px;
+    color: darkcyan;
+}
+
+.produtos li:active h2 {
+    color: brown
 }
 
 .produtos h2 {
