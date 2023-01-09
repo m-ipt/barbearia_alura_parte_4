@@ -19,3 +19,6 @@ Basta entrar no site e navegar por ele! :)
 
 ## Veja o projeto no ar!
 Clique [aqui](https://m-ipt.github.io/barbearia_alura_parte_2/) para ver o projeto.
+
+## Licença
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
