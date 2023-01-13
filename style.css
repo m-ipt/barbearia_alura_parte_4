@@ -123,16 +123,18 @@ form label, legend {
 .enviar {
     width: 40%;
     padding: 15px 0;
-    background: orange;
-    color: white;
+    background: darkcyan;
+    color: whitesmoke;
     font-weight: bold;
     font-size: 18px;
     border: none;
     border-radius: 5px;
-    transition: 1s background;
+    transition: 1s all;
     cursor: pointer;
 }
 
 .enviar:hover {
-    background: darkorange;
+    background: lightseagreen;
+    color: whitesmoke;
+    transform: scale(1.2);
 }
