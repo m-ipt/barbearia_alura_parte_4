@@ -157,6 +157,7 @@ td, th {
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
+    font-weight: bold;
 }
 
 .principal {
@@ -187,6 +188,7 @@ td, th {
 .mapa {
     padding: 3em 0;
     background: linear-gradient(#FEFEFE, #888888);
+    font-weight: bold;
 }
 
 .mapa-conteudo {
@@ -216,6 +218,10 @@ td, th {
 
 .itens {
     line-height: 1.5;
+}
+
+.itens:before {
+    content: "→ ";
 }
 
 .imagem-beneficios {
