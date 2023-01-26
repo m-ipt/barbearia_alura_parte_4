@@ -1,12 +1,14 @@
 <h1> Barbearia Alura 💈 </h1>
 
-Projeto criado para representar a "Barbearia Alura", utilizando HTML5 e CSS3. Parte 3 (e, consequentemente, as partes 1 e 2 também).
+Projeto criado para representar a "Barbearia Alura", utilizando HTML5 e CSS3. Parte 4 (e, consequentemente, as partes 1, 2 e 3 também).
 
 ## Sobre o projeto
-Foi criado a partir do curso [HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas](https://cursos.alura.com.br/course/html5-css3-formularios-tabelas), da plataforma **[Alura](https://www.alura.com.br/)**. O instrutor foi o [Pedro Marins](https://github.com/pedromarins).
+Foi criado a partir do curso [HTML5 e CSS3 parte 4: avançando no CSS](https://cursos.alura.com.br/course/html5-css3-avancando-css), da plataforma **[Alura](https://www.alura.com.br/)**. O instrutor foi o [Pedro Marins](https://github.com/pedromarins).
 
 ## Ao longo do projeto, as seguintes habilidades foram desenvolvidas:
-- Como utilizar o comando "float" para fazer uma legenda contornar a imagem
+- Como inserir mapas;
+- Repetir símbolos em itens numa lista;
+- Sombreamento, que, ao passar o mouse, clareia a foto
 
 ## Tecnologias utilizadas neste projeto:
 <img height="20" src="https://img.shields.io/badge/-HTML5-orange"> <img height="20" src="https://img.shields.io/badge/-CSS3-blue">
